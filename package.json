@@ -1,0 +1,12 @@
+{
+  "name": "toaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
